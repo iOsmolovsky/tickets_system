@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_000kursach.AdminMenu">
+    <Position X="10.25" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACQAIhAQAiAAABQAACCAAAACAAAAAAAAAKAAQ4DQQAA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.circularlabel">
+    <Position X="12.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>circularlabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.DataBase">
+    <Position X="12.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.DBForm">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAGNiAKRCGAQRNSCCQbzAAkDsGYEigMABQMEkbKRBsE=</HashCode>
+      <FileName>DBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.Form1">
+    <Position X="8" Y="13" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BCQAAAAAAGAAABQAAACACIACAAQAACAAAIAAAQDQAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.Program">
+    <Position X="12.5" Y="12.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.RegisterForm">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BCQAAgogADQQUtSAAQDBCJETAAUCgCECBIAAAzDQQAE=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.StartForm">
+    <Position X="12.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABQAAACAAAACAAAIAAAAAMAAAACQAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.UserMenu">
+    <Position X="10.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACQFAgoSACAQQJSAAQLDIIECoAAEgAAAFIEAgSKQAAA=</HashCode>
+      <FileName>UserMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.Properties.Resources">
+    <Position X="12.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_000kursach.Properties.Settings">
+    <Position X="12.5" Y="10.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
